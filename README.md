@@ -1,10 +1,6 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-# 💫 About Me:
-👋 Hi, I’m Ömer (OmerDevX)<br><br>I’m a passionate software developer focused on building clean, scalable, and meaningful projects.<br>I enjoy vibe coding — getting into the flow, experimenting with ideas, and turning concepts into working solutions.<br><br>💻 What I work on:<br>	•	Full-stack & backend-oriented projects<br>	•	Automation, tools, and developer-focused solutions<br>	•	Clean code, performance, and simplicity<br><br>🚀 What I value:<br>	•	Continuous learning<br>	•	Problem-solving mindset<br>	•	Writing code that’s easy to understand and improve<br><br>📌 Always open to learning new technologies and collaborating on interesting projects.
-
-###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" height="38" alt="android logo"  />
@@ -38,7 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="typescript logo"  />
 </div>
 
-###
+# 💫 About Me:
+👋 Hi, I’m Ömer (OmerDevX)<br><br>I’m a passionate software developer focused on building clean, scalable, and meaningful projects.<br>I enjoy vibe coding — getting into the flow, experimenting with ideas, and turning concepts into working solutions.<br><br>💻 What I work on:<br>	•	Full-stack & backend-oriented projects<br>	•	Automation, tools, and developer-focused solutions<br>	•	Clean code, performance, and simplicity<br><br>🚀 What I value:<br>	•	Continuous learning<br>	•	Problem-solving mindset<br>	•	Writing code that’s easy to understand and improve<br><br>📌 Always open to learning new technologies and collaborating on interesting projects.
 
 <div data-importer="socials" align="center">
   <a href="https://discord.gg/maltwin" target="_blank">
