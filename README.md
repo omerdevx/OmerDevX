@@ -69,9 +69,6 @@
   </a>
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/OmerDevX/OmerDevX/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
