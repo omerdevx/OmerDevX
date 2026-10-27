@@ -37,6 +37,9 @@
 # 💫 About Me:
 👋 Hi, I’m Ömer (OmerDevX)<br><br>I’m a passionate software developer focused on building clean, scalable, and meaningful projects.<br>I enjoy vibe coding — getting into the flow, experimenting with ideas, and turning concepts into working solutions.<br><br>💻 What I work on:<br>	•	Full-stack & backend-oriented projects<br>	•	Automation, tools, and developer-focused solutions<br>	•	Clean code, performance, and simplicity<br><br>🚀 What I value:<br>	•	Continuous learning<br>	•	Problem-solving mindset<br>	•	Writing code that’s easy to understand and improve<br><br>📌 Always open to learning new technologies and collaborating on interesting projects.
 
+
+###
+
 <div data-importer="socials" align="center">
   <a href="https://discord.gg/maltwin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
@@ -58,21 +61,17 @@
   </a>
 </div>
 
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmerDevX/OmerDevX/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmerDevX/OmerDevX/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmerDevX/OmerDevX/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-
 ###
 
-<div data-importer="music" align="left">
+<div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/ferrarisinisatanb">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ferrarisinisatanb&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/OmerDevX/OmerDevX/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -84,6 +83,9 @@
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 </div>
 
 ###
