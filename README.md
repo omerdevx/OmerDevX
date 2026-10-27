@@ -36,7 +36,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I’m Ömer (OmerDevX)<br><br>I’m a passionate software developer focused on building clean, scalable, and meaningful projects.<br>I enjoy vibe coding — getting into the flow, experimenting with ideas, and turning concepts into working solutions.<br><br>💻 What I work on:<br>	•	Full-stack & backend-oriented projects<br>	•	Automation, tools, and developer-focused solutions<br>	•	Clean code, performance, and simplicity<br><br>🚀 What I value:<br>	•	Continuous learning<br>	•	Problem-solving mindset<br>	•	Writing code that’s easy to understand and improve<br><br>📌 Always open to learning new technologies and collaborating on interesting projects.
+👋 Hi, I’m Ömer (OmerDevX)<br><br>I’m a passionate software developer focused on building clean, scalable, and meaningful projects.<br>I thrive in deep focus — exploring ideas, iterating quickly, and turning complex concepts into robust, practical solutions.<br><br>💻 What I work on:<br>	•	Full-stack & backend-oriented projects<br>	•	Automation, tools, and developer-focused solutions<br>	•	Clean code, performance, and simplicity<br><br>🚀 What I value:<br>	•	Continuous learning<br>	•	Problem-solving mindset<br>	•	Writing code that’s easy to understand and improve<br><br>📌 Always open to learning new technologies and collaborating on interesting projects.
 
 
 ###
