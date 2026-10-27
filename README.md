@@ -71,7 +71,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-breakout.vercel.app/api?username=omerdevx&theme=dark" alt="Breakout Game" />
+  <img src="https://raw.githubusercontent.com/OmerDevX/OmerDevX/github-breakout/images/breakout-dark.svg" alt="GitHub Breakout" width="100%" />
 </p>
 
 ###
